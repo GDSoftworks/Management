@@ -26,3 +26,9 @@ This part consist of:
 
 ## Moderation
 
+# 👥 Development Team
+
+* Dev: Shadowguy, Astro_Codes
+* Management:
+
+And me — Alandor.
