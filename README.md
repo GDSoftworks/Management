@@ -10,7 +10,9 @@ The problem of keep working on project is really actual nowadays. Our solution w
 
 ## Project management
 
-### Issues 
+### Issues
+
+Issues — the foundation of all features. Create new issues, fill in needed information and choose where will it be displayed. If it's hard to understand, let's say that issue is a task that you create and place into boards, roadmap, etc. .
 
 ### Boards
 
