@@ -6,6 +6,8 @@
 
 The problem of keep working on project is really actual nowadays. Our solution will be friendly for people who have never used project management systems. Besides, there are not many open-source products for business yet. We help our community make better products together.
 
+![NTB](https://github.com/GDSoftworks/NTBspace/raw/main/NTB.png)
+
 # Structure
 
 ## Project management
