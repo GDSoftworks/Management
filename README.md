@@ -1,6 +1,6 @@
 # About Project
 
-> **NTBspace** (Not Too Busy Space) is open-source managemenet software that give your team and you must-have tools for correct for organizing workflo: project management tools, knowledge management system and much more features that will make your work much easier.
+> **NTBS** (Not Too Busy Space) is open-source managemenet software that give your team and you must-have tools to organize your workspace as efficiently as possible. Here you will find: boards, calendars, moodboards, knowledge management functions and much more features that will make work easier, no matter what type pf project do you use it for.
 
 ## Why make another management software?
 
@@ -8,31 +8,11 @@ The problem of keep working on project is really actual nowadays. Our solution w
 
 ![NTB](https://github.com/GDSoftworks/NTBspace/raw/main/NTB.png)
 
-# Structure
-
-## Project management
-
-### Issues
-
-**Issues** — the foundation of all features. Create new issues, fill in needed information and choose where will it be displayed. If it's hard to understand, let's say that issue is a task that you create and place into boards, roadmap, etc. .
-
-### Boards
-
-### Roadmaps
-
-### Calendar
-
-### Dashboard
-
-## Knowledge management
-
-This part consist of:
-
-## Moderation
+# Structure 
 
 # 👥 Development Team
 
-* Dev: Shadowguy, Astro_Codes
+* Dev: david01234, Shadowguy, Astro_Codes
 * Management:
 
 And me — Alandor.
